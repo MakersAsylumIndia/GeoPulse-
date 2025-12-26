@@ -1,0 +1,4 @@
+Day 5 — Improved CAD and App Development
+On Day 5, we designed the second version of the CAD enclosure. This one utilized thinner walls, minimized the number of solid internal structures, and reorganized the sensor mounting holes to shorten wiring paths. These revisions saved filament, hastened the printing process, and enhanced the internal layout of the device.
+It was a reasonable amount of time for the 3D print to start and complete. The result was considerably more efficient than the first design. With a casing much lighter in weight, the device was easier to hold and transport into the field for use.
+Meanwhile, on the mobile application, progress was going on: layout completion along with sensor data display screens was done, and research on serial communication connection setup was going on. This is starting to look like a product, not a mockup.
