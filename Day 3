@@ -1,4 +1,0 @@
-Day 3 — Testing and Validating Sensors
-Day 3 was then dedicated to the actual testing of the various hardware. We tested the YL-69 Soil Moisture Sensor, Capacitive Soil Moisture Sensor, and DHT11 Temperature & Humidity Module. Each of them needed to be checked whether they were in working condition and needed further calibration for inclusion in the prototype.
-We had to connect each sensor to the ESP32 and observed the serial output using the Arduino IDE. Some readings were unstable initially. For instance, small changes in wiring placement affected the consistency of measurement. We played around with the resistor value and shortened some jumper wires to reduce interference.
-At the end of the day, we were able to confirm that we had usable data from all sensors. We could continue in development, knowing no replacements were needed and that, technically, the device was possible with components owned.
