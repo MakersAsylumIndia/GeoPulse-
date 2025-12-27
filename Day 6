@@ -1,4 +1,0 @@
-Day 6 — Soldering and Pitch Deck Building
-Day 6 sees us change from temporary breadboard wiring to permanent soldered connections, allowing us to have stable signals while the electronics could be mounted inside the new enclosure safely. While soldering, we paid attention to the length of cables also to not make the interior messy.
-We also continued building the pitch deck for our final presentation. The pitch was structured around key points: the real-world problem, our cost-saving design decisions, how sensor data benefits farmers, and our plan to integrate AI in the future. We also practiced explaining why switching from ESP32 to Arduino Uno made our device more stable for our goals.
-As the day drew to a close, much of both hardware and presentation were beginning to feel complete.
